@@ -5,7 +5,7 @@
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,python,java,cpp,react,tailwindcss,mysql,wordpress,figma,git,github,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,python,java,cpp,react,tailwindcss,mysql,wordpress,figma,git,github,vscode)](https://skillicons.dev)
 
 
 #### OS
