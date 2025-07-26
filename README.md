@@ -1,6 +1,7 @@
-## Hi, I'm
+## Hi There 👋
+**I'm Raihan Alvian** - I'm a Front-End Developer
 
-![Differentlv](img/bg-none.png)
+<!-- ![Differentlv](img/bg-none.png) -->
 
 
 #### Skills
@@ -18,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
-#### Github Stats
+<!-- #### Github Stats
 
-![Differentlv GitHub stats](https://github-readme-stats.vercel.app/api?username=differentlv&show_icons=true&theme=dracula)
+![Differentlv GitHub stats](https://github-readme-stats.vercel.app/api?username=differentlv&show_icons=true&theme=dracula) -->
 
