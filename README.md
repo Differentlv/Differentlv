@@ -1,4 +1,4 @@
-## Hi, I'm Differentlv
+## Hi, I'm
 
 ![Differentlv](img/bg-none.png)
 
